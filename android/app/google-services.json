@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957964197223",
+    "project_id": "tabunganku-app-d1dea",
+    "storage_bucket": "tabunganku-app-d1dea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957964197223:android:7f79545267cecb317523c2",
+        "android_client_info": {
+          "package_name": "com.example.tabunganku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuKQTvN5dp4NUiE-Oy7dSqOhP_MkdtI24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
